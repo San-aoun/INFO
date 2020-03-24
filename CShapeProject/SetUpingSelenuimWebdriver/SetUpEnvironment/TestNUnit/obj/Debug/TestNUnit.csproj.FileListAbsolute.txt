@@ -1,2 +1,0 @@
-D:\MyJobs\CShapeProject\SetUpingSelenuimWebdriver\SetUpEnvironment\TestNUnit\obj\Debug\TestNUnit.csprojAssemblyReference.cache
-D:\MyJobs\CShapeProject\SetUpingSelenuimWebdriver\SetUpEnvironment\TestNUnit\obj\Debug\TestNUnit.csproj.CoreCompileInputs.cache
